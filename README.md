@@ -1,17 +1,54 @@
+# ¡Hola! Soy Nico 👋
 
-# ⚫Sobre Mi:
-✋Actualmente estoy creando pequeños proyectos para mejorar cada vez mas como programador<br>🌱Aprendiendo 1% cada dia<br>⚡Cuando todo esta organizado,todo es mas facil.<br>💻Desarrollador minimalista.
+### Full-Stack Developer · React · TypeScript · NestJS
 
-## Sigueme Aca👇:
-[![LinkedIn](https://www.linkedin.com/in/nico-micuu-583700337/)
+Me enfoco en el desarrollo de aplicaciones web, desde interfaces modernas hasta APIs y servicios backend.
 
-# 💻 Habiliades Tecnologicas:
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%23FF5C00.svg?style=for-the-badge&logo=astro&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2383C7F4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SushrutMishra&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SushrutMishra&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SushrutMishra&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Me interesa construir software **mantenible, escalable y bien organizado**, prestando atención a la arquitectura, la calidad del código y la experiencia de usuario.
 
 ---
+
+## 🧰 Tecnologías
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=C21325)
+
+---
+
+## 🚀 Proyectos destacados
+
+Quiero que esta sección muestre proyectos reales, explicando qué problema resuelve cada uno, qué tecnologías utiliza y qué decisiones técnicas vale la pena destacar.
+
+> Los proyectos destacados se agregarán una vez seleccionados los repositorios.
+
+---
+
+## 🎯 En qué me enfoco
+
+- Diseñar aplicaciones full-stack con responsabilidades bien separadas.
+- Construir APIs con Node.js, NestJS y TypeScript.
+- Desarrollar interfaces con React y TypeScript.
+- Mejorar mis fundamentos de programación, testing y diseño de software.
+- Explorar herramientas que permitan automatizar procesos y mejorar el desarrollo.
+
+---
+
+## 📫 Encontrame en GitHub
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nicomicu-181717?style=for-the-badge&logo=github)](https://github.com/Nicomicu)
 
