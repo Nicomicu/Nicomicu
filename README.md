@@ -34,12 +34,6 @@ Me interesa construir software **mantenible, escalable y bien organizado**, pres
 
 ---
 
----
-
-## 🚀 Proyectos destacados
-
----
-
 ## 🎯 En qué me enfoco
 
 - Diseñar aplicaciones full-stack con responsabilidades bien separadas.
