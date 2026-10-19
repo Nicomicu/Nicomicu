@@ -10,7 +10,7 @@ También estoy explorando cómo integrar la inteligencia artificial en el desarr
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,ts,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 
 ### Backend & Bases de datos
 
