@@ -7,6 +7,7 @@ Me enfoco en el desarrollo de aplicaciones web, desde interfaces modernas hasta 
 Me interesa construir software **mantenible, escalable y bien organizado**, prestando atención a la arquitectura, la calidad del código y la experiencia de usuario.
 
 ---
+
 ## 🧰 Tecnologías
 
 ### Frontend
@@ -19,11 +20,17 @@ Me interesa construir software **mantenible, escalable y bien organizado**, pres
 
 ### Automatización
 
-[![Automatización](https://skillicons.dev/icons?i=n8n&theme=dark)](https://skillicons.dev)
+<p>
+  <a href="https://n8n.io/">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="48" />
+  </a>
+</p>
 
 ### Herramientas
 
-[![Herramientas](https://skillicons.dev/icons?i=jest,git&theme=dark)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
+
+---
 
 ---
 
