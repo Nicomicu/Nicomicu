@@ -6,8 +6,6 @@ Me enfoco en el desarrollo de aplicaciones web, desde interfaces modernas hasta 
 
 Me interesa construir software **mantenible, escalable y bien organizado**, prestando atención a la arquitectura, la calidad del código y la experiencia de usuario.
 
----
-
 ## 🧰 Tecnologías
 
 ### Frontend
