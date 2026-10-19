@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer · React · TypeScript · NestJS
 
-Me enfoco en el desarrollo de aplicaciones web, desde interfaces modernas hasta APIs y servicios backend.
-
-Me interesa construir software **mantenible, escalable y bien organizado**, prestando atención a la arquitectura, la calidad del código y la experiencia de usuario.
+Me enfoco en el desarrollo de aplicaciones web full-stack, desde interfaces modernas hasta APIs y servicios backend.
+Me interesa construir software mantenible, escalable y bien organizado, prestando atención a la arquitectura, la calidad del código y la experiencia de usuario.
+También estoy explorando cómo integrar la inteligencia artificial en el desarrollo de software, creando herramientas, automatizaciones y soluciones que aporten valor real.
 
 ## 🧰 Tecnologías
 
@@ -28,18 +28,15 @@ Me interesa construir software **mantenible, escalable y bien organizado**, pres
 
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
 
----
 
 ---
-
 ## 🎯 En qué me enfoco
 
 - Diseñar aplicaciones full-stack con responsabilidades bien separadas.
 - Construir APIs con Node.js, NestJS y TypeScript.
-- Desarrollar interfaces con React y TypeScript.
-- Mejorar mis fundamentos de programación, testing y diseño de software.
-- Explorar herramientas que permitan automatizar procesos y mejorar el desarrollo.
-
+- Desarrollar interfaces modernas con React, Next.js y TypeScript.
+- Explorar la integración de inteligencia artificial en aplicaciones y flujos de trabajo.
+- Crear automatizaciones para simplificar procesos y conectar servicios.
 ---
 
 ## 📫 Encontrame en GitHub
