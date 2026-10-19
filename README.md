@@ -11,15 +11,21 @@ Me interesa construir software **mantenible, escalable y bien organizado**, pres
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,ts,tailwind&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,ts,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 
 ### Backend & Bases de datos
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma&theme=dark)](https://skillicons.dev)
 
+### Automatización
+
+[![Automatización](https://skillicons.dev/icons?i=n8n&theme=dark)](https://skillicons.dev)
+
 ### Herramientas
 
-[![Tools](https://skillicons.dev/icons?i=git,jest&theme=dark)](https://skillicons.dev)
+[![Herramientas](https://skillicons.dev/icons?i=jest,git&theme=dark)](https://skillicons.dev)
+
+---
 
 ---
 
